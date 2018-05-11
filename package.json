@@ -1,0 +1,19 @@
+{
+  "name": "node-pdf-builder",
+  "version": "1.0.0",
+  "description": "fill pdf forms with JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://emcelyea@github.com/emcelyea/node-pdf-builder.git"
+  },
+  "author": "Eric McElyea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emcelyea/node-pdf-builder/issues"
+  },
+  "homepage": "https://github.com/emcelyea/node-pdf-builder#readme"
+}
